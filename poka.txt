@@ -1,1 +1,1 @@
-print("pokagesh")
+print("pokagesh;")
