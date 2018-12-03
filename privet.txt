@@ -1,2 +1,4 @@
-print("я есть √рунт;")
-print("я кричу;")
+print("Ya est Grut;")
+print("Ya krichy;")
+print("hello friends;")
+print("yak dyaly?;")
